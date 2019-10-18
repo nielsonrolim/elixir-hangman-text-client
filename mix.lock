@@ -1,4 +1,4 @@
 %{
-  "dictionary": {:git, "https://github.com/nielsonrolim/elixir-dictionary.git", "61360d36577ecee39f86c5cb803744efd84e07ad", []},
-  "hangman": {:git, "https://github.com/nielsonrolim/elixir-hangman.git", "e1429330342f41856cd1d69149016503b36f6bc9", []},
+  "dictionary": {:git, "https://github.com/nielsonrolim/elixir-dictionary.git", "76d909f3b03e802aa51721cbff45169f926a41bb", []},
+  "hangman": {:git, "https://github.com/nielsonrolim/elixir-hangman.git", "2d7db88cbb70ff4b61483df2abd7d26c09723009", []},
 }
